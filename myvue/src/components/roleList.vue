@@ -147,7 +147,7 @@
             roleId: this.$data.roleId
           }
         }).then(result => {
-          if (result.data == 1) {
+          if (result.data == 1) {/
             this.$message({
               type: 'success',
               message: '权限保存成功!'
