@@ -160,6 +160,7 @@
             });
           }
         })
+        /* asdasd*/
 
       },
       addChild(list, powerId) {
